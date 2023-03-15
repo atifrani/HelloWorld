@@ -7,4 +7,9 @@ Ceci est un page web pour le cours sur le devops
 * Introduction devops
 * Introduction VSCODE
 * Introduction Git
+  * Git config
+  * Git status
+  * Git add
+  * Git commit
+  * Git push
 * Introduction GitHub
