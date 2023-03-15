@@ -12,4 +12,5 @@ Ceci est un page web pour le cours sur le devops
   * Git add
   * Git commit
   * Git push
+  * Git pull
 * Introduction GitHub
