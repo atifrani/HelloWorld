@@ -11,6 +11,7 @@ Ceci est un page web pour le cours sur le devops
   * Git status
   * Git add
   * Git commit
+  * git log & checkout
   * Git push
   * Git pull
 * Introduction GitHub
